@@ -1,6 +1,6 @@
 # A Perfect Core i5 12600K Hackintosh with FakeID GPU - RX 6650 XT 8Gb
 
-![About This Mac - Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-H610M-H-DDR4-rev1.2-Core-i5-12600K-RX6650XT-PUBLIC/assets/23700365/2e79e43f-52c3-488d-bdf6-ec0357faa8a6)
+![About This Mac - Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-H610M-H-DDR4-rev1.2-Core-i5-12600K-RX6650XT-PUBLIC/assets/23700365/a1c94db1-fb3d-4384-9385-4683f886c493)
 
 # Basic Information
 
